@@ -5,9 +5,14 @@ class demo
      {
 	System.out.println("hello");
 	     display();
+	     show();
 	     public static void display()
 	     {
 		     	System.out.println("welcome");
+	     }
+	     public static void show()
+	     {
+		     	System.out.println("everyone");
 	     }
 		     
      }
